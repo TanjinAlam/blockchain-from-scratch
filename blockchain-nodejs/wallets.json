@@ -1,0 +1,12 @@
+{
+  "aaaa": {
+    "privateKey": "d0706936b305b325ea1837b7ee2be6b9f49153a04281e7bb49e3fe3ccf61cfb7",
+    "publicKey": "02ef0a421da70ff3dffef96c2407109462847a899ce934dd6bc44002566131f6fb",
+    "balance": 500
+  },
+  "piash": {
+    "privateKey": "076d3153b475f71d267aae4b90ccd02fb1636da9c7a2e1d800e90929f0c9405e",
+    "publicKey": "038265eafeea98cd809f512b233f4df59d38187aa8d4136759b03383bffdd8fb46",
+    "balance": 500
+  }
+}
